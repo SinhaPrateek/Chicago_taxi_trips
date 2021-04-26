@@ -16,6 +16,4 @@ process, not all trips are reported but the City believes that most are. See htt
 data-released for more information about this dataset and how it was created.
 Use data from 2013 to 2016 for learning and 2017 for testing. Your results will be based on MAPE on 2017 data.
 
-## Acknowledgements
-https://bigquery.cloud.google.com/dataset/bigquery-public-data:chicago_taxi_trips
-https://cloud.google.com/bigquery/public-data/chicago-taxi
+Bigquery Dataset : https://www.kaggle.com/chicago/chicago-taxi-trips-bq
